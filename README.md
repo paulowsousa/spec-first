@@ -12,7 +12,7 @@ written spec you approve. Then the code gets written.
 ## Install
 
 ```bash
-git clone https://github.com/<your-username>/spec-first.git
+git clone https://github.com/<paulowsousa/spec-first.git
 mkdir -p ~/.claude/skills
 cp -r spec-first/skills/spec-first ~/.claude/skills/
 ```
